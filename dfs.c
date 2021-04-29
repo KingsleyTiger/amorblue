@@ -1,7 +1,0 @@
-#include <stdio>
-
-int main(){
-    printf("hellow world");
-    return 0;
-    
-}
